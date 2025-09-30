@@ -1,0 +1,77 @@
+# Unity generated
+*.csproj.User
+*.unityproj
+*.sln.iml
+packages/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rchive/
+[Vv]ers/Debug/
+[Vv]ers/Release/
+BumpVersion.txt
+Backup*/
+/Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+UpgradeLog*.txt
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio / Rider
+[Dd]ebug/
+[Dd]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Packages
+packages/
+node_modules/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.lock
+*.swp
+
+# OS generated
+.DS_Store
+.DS_Store?
+
+c_sharp.csproj
+c_sharp.sln
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
