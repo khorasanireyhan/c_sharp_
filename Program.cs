@@ -1,6 +1,7 @@
 ﻿using System;
 using c_sharp.reyhane_core.If_Exercises._01_If_Statements;
 using c_sharp.reyhane_core.If_Exercises._03_NestedIf_Statements;
+using ReyhaneCore.IfExercises.NestedIfStatements;
 
 namespace c_sharp
 {
@@ -21,8 +22,8 @@ namespace c_sharp
              Adult.AdultAge(); */
            
            /*03_Nested_lf_Statements
-                                        */
-           positive.positiveMethod();
+              positive.positiveMethod();                           */
+              GenderAndAge.GenderAge();
            //Sahar_code
 
            //DoWhileLoop.DoWhileLoopMethod();
