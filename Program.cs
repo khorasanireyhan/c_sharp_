@@ -7,15 +7,14 @@ namespace c_sharp
     {
         public static void Main()
         {
-           // Easy.CheckNumber();
-           // Medium.GreaterNumber();
-
-           //Sahar_code
-
-           //DoWhileLoop.DoWhileLoopMethod();
-           //HealthCheck.CheckHealth();
-           //GuessGame.PlayGuessGame();
-           //MathOperations.PerformCalculations();
+            // Easy.CheckNumber();
+            // Medium.GreaterNumber();
+            Hard.CheckProgram();
         }
+        //Sahar_code
+        //DoWhileLoop.DoWhileLoopMethod();
+        //HealthCheck.CheckHealth();
+        //GuessGame.PlayGuessGame();
+        //MathOperations.PerformCalculations();
     }
 }
