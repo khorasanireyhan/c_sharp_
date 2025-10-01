@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace c_sharp.reyhane_core.If_Exercises._02_IfElse_Statements;
+namespace c_sharp;
 
 public class EvenOdd
 {

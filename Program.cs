@@ -7,9 +7,19 @@ namespace c_sharp
     {
         public static void Main()
         {
-           // Easy.CheckNumber();
-           // Medium.GreaterNumber();
+            //reyhane_core
+            
+            /*01_if_statements
+            Easy.CheckNumber();
+            Medium.GreaterNumber();
+            Hard.CheckProgram(); */
+            usernum.UserNumber();
+           /*02_ifElse_statements
+             EvenOdd. CheckEvenOdd();
+                                     
+                                         */
 
+           
            //Sahar_code
 
            //DoWhileLoop.DoWhileLoopMethod();
