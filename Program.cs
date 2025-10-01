@@ -1,5 +1,5 @@
 ﻿using System;
-using c_sharp.reyhane_core.If_Exercises._01_If_Statements;
+using c_sharp.reyhane_core.If_Exercises._02_IfElse_Statements; 
 
 namespace c_sharp
 {
@@ -9,7 +9,9 @@ namespace c_sharp
         {
             // Easy.CheckNumber();
             // Medium.GreaterNumber();
-            Hard.CheckProgram();
+            //Hard.CheckProgram();
+            //new folder
+            EvenOdd.CheckEvenOdd();
         }
         //Sahar_code
         //DoWhileLoop.DoWhileLoopMethod();
