@@ -4,6 +4,7 @@ using c_sharp.reyhane_core.If_Exercises._01_If_Statements;
 using c_sharp.reyhane_core.If_Exercises._03_NestedIf_Statements;
 using c_sharp.reyhane_core.If_Exercises._04_LogicalOperators_If;
 using c_sharp.reyhane_core.If_Exercises._05_Switch_Statements;
+using c_sharp.reyhane_core.Loop_Exercises._01_while_statements;
 using ReyhaneCore.IfExercises.NestedIfStatements;
 
 namespace c_sharp
@@ -38,6 +39,9 @@ namespace c_sharp
             Programu.NumberToWord();
             GradeEvaluator.Excellent();
             DayProgram.day();  */
+          
+          /*01_while_statements*/
+          EasyWhile.While();
         
 
           //codeTasks_week1:
