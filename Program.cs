@@ -41,8 +41,9 @@ namespace c_sharp
             DayProgram.day();  */
           
           /*01_while_statements
-            EasyWhile.While();*/
-         MediWhile.While2();
+            EasyWhile.While();
+              MediWhile.While2(); */
+      HardWhile.While3();
         
 
           //codeTasks_week1:
