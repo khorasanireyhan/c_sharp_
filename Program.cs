@@ -37,8 +37,8 @@ namespace c_sharp
           /*05_Switch_Statements:
             Programu.NumberToWord();
             GradeEvaluator.Excellent();
-                  */
-         
+            DayProgram.day();  */
+        
 
           //codeTasks_week1:
           //CodeTasks.Maximum();
