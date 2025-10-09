@@ -25,7 +25,8 @@ namespace c_sharp
            /*03_Nested_lf_Statements
               positive.positiveMethod();                          
               GenderAndAge.GenderAge();*/
-          CodeTasks.Maximum();
+           max.Maxi();
+          //CodeTasks.Maximum();
            
            //Sahar_code
 
