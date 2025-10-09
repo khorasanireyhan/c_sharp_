@@ -2,6 +2,7 @@
 using c_sharp.reyhane_core.CodeTasks_Week1;
 using c_sharp.reyhane_core.If_Exercises._01_If_Statements;
 using c_sharp.reyhane_core.If_Exercises._03_NestedIf_Statements;
+using c_sharp.reyhane_core.If_Exercises._04_LogicalOperators_If;
 using ReyhaneCore.IfExercises.NestedIfStatements;
 
 namespace c_sharp
@@ -24,8 +25,12 @@ namespace c_sharp
            
            /*03_Nested_lf_Statements
               positive.positiveMethod();                          
-              GenderAndAge.GenderAge();*/
-           max.Maxi();
+              GenderAndAge.GenderAge();
+              max.Maxi();*/
+           /*04_logicalOperators_if
+                */
+           positiveNum.Num();
+      
           //CodeTasks.Maximum();
            
            //Sahar_code
