@@ -52,7 +52,9 @@ namespace c_sharp
                  MediDoWhile.DoWhile2(); 
                   hardDoWhile.DoWhile3();   */
               
-              EasyFor.For();
+             /*03_Loop_For_statements
+              EasyFor.For();*/
+             MediFor.For2();
         
 
           //codeTasks_week1:
