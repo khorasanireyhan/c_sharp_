@@ -5,6 +5,7 @@ using c_sharp.reyhane_core.If_Exercises._03_NestedIf_Statements;
 using c_sharp.reyhane_core.If_Exercises._04_LogicalOperators_If;
 using c_sharp.reyhane_core.If_Exercises._05_Switch_Statements;
 using c_sharp.reyhane_core.Loop_Exercises._01_while_statements;
+using c_sharp.reyhane_core.Loop_Exercises._02_do_while_statements;
 using ReyhaneCore.IfExercises.NestedIfStatements;
 
 namespace c_sharp
@@ -42,8 +43,10 @@ namespace c_sharp
           
           /*01_while_statements
             EasyWhile.While();
-              MediWhile.While2(); */
-      HardWhile.While3();
+              MediWhile.While2();
+                HardWhile.While3();*/
+          EasyDoWhile.DoWhile();
+     
         
 
           //codeTasks_week1:
