@@ -36,16 +36,20 @@ namespace c_sharp
                UserAge.AgeMethod();       
                ProgramCondition.Condition();*/
 
-          /*05_Switch_Statements:
-            Programu.NumberToWord();
-            GradeEvaluator.Excellent();
-            DayProgram.day();  */
-          
-          /*01_while_statements
-            EasyWhile.While();
-              MediWhile.While2();
+               /*05_Switch_Statements:
+                Programu.NumberToWord();
+                GradeEvaluator.Excellent();
+                DayProgram.day();  */
+          //Loop_Exercises
+               /*01_while_statements
+                EasyWhile.While();
+                MediWhile.While2();
                 HardWhile.While3();*/
-          EasyDoWhile.DoWhile();
+          
+               /*02_do_While_statements
+                 EasyDoWhile.DoWhile();
+                 MediDoWhile.DoWhile2(); */
+        
      
         
 
