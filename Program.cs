@@ -40,8 +40,9 @@ namespace c_sharp
             GradeEvaluator.Excellent();
             DayProgram.day();  */
           
-          /*01_while_statements*/
-          EasyWhile.While();
+          /*01_while_statements
+            EasyWhile.While();*/
+         MediWhile.While2();
         
 
           //codeTasks_week1:
