@@ -35,8 +35,10 @@ namespace c_sharp
                ProgramCondition.Condition();*/
 
           /*05_Switch_Statements:
-           */
-         Programu.NumberToWord();
+            Programu.NumberToWord();
+            GradeEvaluator.Excellent();
+                  */
+         
 
           //codeTasks_week1:
           //CodeTasks.Maximum();
