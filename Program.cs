@@ -3,6 +3,7 @@ using c_sharp.reyhane_core.CodeTasks_Week1;
 using c_sharp.reyhane_core.If_Exercises._01_If_Statements;
 using c_sharp.reyhane_core.If_Exercises._03_NestedIf_Statements;
 using c_sharp.reyhane_core.If_Exercises._04_LogicalOperators_If;
+using c_sharp.reyhane_core.If_Exercises._05_Switch_Statements;
 using ReyhaneCore.IfExercises.NestedIfStatements;
 
 namespace c_sharp
@@ -30,22 +31,26 @@ namespace c_sharp
            
            /*04_logicalOperators_if:
                positiveNum.Num();
-               UserAge.AgeMetod();         */
-          
-           ProgramCondition.Condition();
-           //codeTasks_week1:
+               UserAge.AgeMethod();       
+               ProgramCondition.Condition();*/
+
+          /*05_Switch_Statements:
+           */
+         Programu.NumberToWord();
+
+          //codeTasks_week1:
           //CodeTasks.Maximum();
-           
-          
-          
-          
-          
-          
-           //Sahar_code
-           //DoWhileLoop.DoWhileLoopMethod();
-           //HealthCheck.CheckHealth();
-           //GuessGame.PlayGuessGame();
-           //MathOperations.PerformCalculations();
+
+
+
+
+
+
+          //Sahar_code
+          //DoWhileLoop.DoWhileLoopMethod();
+          //HealthCheck.CheckHealth();
+          //GuessGame.PlayGuessGame();
+          //MathOperations.PerformCalculations();
         }
     }
 }
